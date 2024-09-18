@@ -1,4 +1,3 @@
-
 <script>
 	import successkid from 'images/successkid.jpg';
 </script>
@@ -41,7 +40,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Tere tulemast!tere tere</h1>
+<h1>tere </h1>
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
