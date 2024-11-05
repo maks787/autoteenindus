@@ -1,0 +1,94 @@
+{
+    "booking": [
+        {
+            "@attributes": {
+                "id": "1"
+            },
+            "contact": {
+                "@attributes": {
+                    "phone": "+123456789"
+                },
+                "name": "Ivan Ivanov"
+            },
+            "datetime": "2024-11-06T11:11",
+            "details": {
+                "service": "Mootori diagnostika",
+                "carNumber": "AA1234BB"
+            }
+        },
+        {
+            "@attributes": {
+                "id": "2"
+            },
+            "contact": {
+                "@attributes": {
+                    "phone": "+987654321"
+                },
+                "name": "Anna Smirnova"
+            },
+            "datetime": "2024-11-11T14:30",
+            "details": {
+                "service": "\u00f5livahetus",
+                "carNumber": "BB5678CC"
+            }
+        },
+        {
+            "@attributes": {
+                "id": "3"
+            },
+            "contact": {
+                "@attributes": {
+                    "phone": "+555123456"
+                },
+                "name": "Peeter Petrov"
+            },
+            "datetime": "2024-11-12T09:00",
+            "details": {
+                "service": "Pidurite klotside vahetus",
+                "carNumber": "CC9101DD"
+            }
+        },
+        {
+            "@attributes": {
+                "id": "4"
+            },
+            "contact": {
+                "@attributes": {
+                    "phone": "+111222333"
+                },
+                "name": "Maria Kuznetsova"
+            },
+            "datetime": "2024-11-13T13:00",
+            "details": {
+                "service": "T\u00e4ielik auto pesu",
+                "carNumber": "DD3456EE"
+            }
+        },
+        {
+            "contact": {
+                "@attributes": {
+                    "phone": "2288"
+                },
+                "name": "maksimka"
+            },
+            "datetime": "2024-11-06T18:45",
+            "details": {
+                "service": "Mootori diagnostika",
+                "carNumber": "123abc"
+            }
+        },
+        {
+            "contact": {
+                "@attributes": {
+                    "phone": "2288"
+                },
+                "name": "maksimka"
+            },
+            "datetime": "2024-11-13T17:44",
+            "details": {
+                "service": "\u00f5livahetus",
+                "carNumber": "123abc"
+            }
+        }
+    ]
+}

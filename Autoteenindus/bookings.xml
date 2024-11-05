@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookings>
+    <booking id="1">
+        <contact phone="+123456789">
+            <name>Ivan Ivanov</name>
+        </contact>
+        <datetime>2024-11-06T11:11</datetime>
+        <details>
+            <service>Mootori diagnostika</service>
+            <carNumber>AA1234BB</carNumber>
+        </details>
+    </booking>
+
+    <booking id="2">
+        <contact phone="+987654321">
+            <name>Anna Smirnova</name>
+        </contact>
+        <datetime>2024-11-11T14:30</datetime>
+        <details>
+            <service>õlivahetus</service>
+            <carNumber>BB5678CC</carNumber>
+        </details>
+    </booking>
+
+    <booking id="3">
+        <contact phone="+555123456">
+            <name>Peeter Petrov</name>
+        </contact>
+        <datetime>2024-11-12T09:00</datetime>
+        <details>
+            <service>Pidurite klotside vahetus</service>
+            <carNumber>CC9101DD</carNumber>
+        </details>
+
+    </booking>
+
+    <booking id="4">
+        <contact phone="+111222333">
+            <name>Maria Kuznetsova</name>
+        </contact>
+        <datetime>2024-11-13T13:00</datetime>
+        <details>
+            <service>Täielik auto pesu</service>
+            <carNumber>DD3456EE</carNumber>
+        </details>
+    </booking>
+<booking><contact phone="2288"><name>maksimka</name></contact><datetime>2024-11-06T18:45</datetime><details><service>Mootori diagnostika</service><carNumber>123abc</carNumber></details></booking><booking><contact phone="2288"><name>maksimka</name></contact><datetime>2024-11-13T17:44</datetime><details><service>õlivahetus</service><carNumber>123abc</carNumber></details></booking></bookings>
