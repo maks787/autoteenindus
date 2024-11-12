@@ -4,9 +4,9 @@
         <contact phone="+123456789">
             <name>Ivan Ivanov</name>
         </contact>
-        <datetime>2024-11-06T11:11</datetime>
+        <datetime>2024-11-13T14:17</datetime>
         <details>
-            <service>Mootori diagnostika</service>
+            <service>Pidurite klotside vahetus</service>
             <carNumber>AA1234BB</carNumber>
         </details>
     </booking>
@@ -44,4 +44,4 @@
             <carNumber>DD3456EE</carNumber>
         </details>
     </booking>
-<booking><contact phone="2288"><name>maksimka</name></contact><datetime>2024-11-06T18:45</datetime><details><service>Mootori diagnostika</service><carNumber>123abc</carNumber></details></booking><booking><contact phone="2288"><name>maksimka</name></contact><datetime>2024-11-13T17:44</datetime><details><service>õlivahetus</service><carNumber>123abc</carNumber></details></booking></bookings>
+<booking><contact phone="1233"><name>maks</name></contact><datetime>2024-11-13T22:22</datetime><details><service>Pidurite klotside vahetus</service><carNumber>aaa222</carNumber></details></booking></bookings>
